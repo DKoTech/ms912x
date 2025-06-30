@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "drm_atomic_helper.h": "c",
-        "drm_managed.h": "c",
-        "drm_gem_shmem_helper.h": "c",
-        "drm_drv.h": "c"
-    }
-}
