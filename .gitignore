@@ -12,3 +12,7 @@ modules.order
 .project
 .settings
 .cache.mk
+
+.vscode
+.vscode/*
+.o.d
